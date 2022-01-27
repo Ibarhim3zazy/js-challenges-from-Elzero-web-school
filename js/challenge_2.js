@@ -1,5 +1,7 @@
 // Challeng From vid num 22 (*.*);
 // Challenge 1
+console.log("_______________Challenge 1_________________");
+
 let a = 10;
 let b = "20";
 let c = 80;
@@ -136,6 +138,7 @@ console.log(--c + +b + --a * +b++ - +b * a + --a - +true);
 
 
 // Challenge 2
+console.log("_______________Challenge 2_________________");
 
 let d = "-100";
 let e = "20";
