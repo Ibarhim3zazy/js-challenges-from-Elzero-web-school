@@ -1,4 +1,4 @@
-// Challeng From vid num 37 (*.*);
+// Challenge From vid num 37 (*.*);
 
 // Challenge 1
 

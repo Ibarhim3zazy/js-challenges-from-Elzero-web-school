@@ -1,4 +1,4 @@
-// Challeng From vid num 22 (*.*);
+// Challenge From vid num 22 (*.*);
 // Challenge 1
 console.log("_______________Challenge 1_________________");
 

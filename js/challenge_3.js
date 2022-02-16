@@ -1,4 +1,4 @@
-// Challeng From vid num 26 (*.*);
+// Challenge From vid num 26 (*.*);
 // Challenge 1
 
 let a = 1_00;

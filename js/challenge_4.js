@@ -1,4 +1,4 @@
-// Challeng From vid num 30 (*.*);
+// Challenge From vid num 30 (*.*);
 
 let a = "Elzero Web School";
 

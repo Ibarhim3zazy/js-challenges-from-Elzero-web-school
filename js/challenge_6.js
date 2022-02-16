@@ -1,4 +1,4 @@
-// Challeng From vid num 39 (*.*);
+// Challenge From vid num 39 (*.*);
 
 // Challenge 1
 
@@ -27,9 +27,9 @@ switch (job) {
     console.log("My salary is " + salary);
 }
 
-// Challenge 1
+// Challenge 2
 
-console.log("_______________Challenge 1_________________");
+console.log("_______________Challenge 2_________________");
 
 let holidays = 6;
 let money = 0;
