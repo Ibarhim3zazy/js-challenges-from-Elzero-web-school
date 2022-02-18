@@ -2,6 +2,8 @@
 
 // Challenge 1
 
+console.log("_______________Challenge 1_________________");
+
 let zero = 0;
 let counter = 3;
 let my = ["Ahmed", "Mazero", "Elham", "Osama", "Ibrahim", "Ameer"];

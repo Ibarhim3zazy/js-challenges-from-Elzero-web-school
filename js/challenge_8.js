@@ -2,6 +2,8 @@
 
 // Challenge 1
 
+console.log("_______________Challenge 1_________________");
+
 let myAdmins = ["Ahmed", "Osama", "Sayed", "stop", "Ibrahim"];
 let myEmployees = ["Amged", "Samah", "Ameer", "Omar", "Othman", "Amany", "Samia", "Anwar"];
 let n = '';
@@ -13,8 +15,6 @@ for (let i = 0; i < myAdmins.length; i++) {
     adminNum = myAdmins.length;
   }
 }
-// <span>- ${} ${}<span><br>
-//
 document.write(`<div>We Have ${adminNum} Admins</div><hr>`);
 
 for (let i = 0; i < adminNum; i++) {
